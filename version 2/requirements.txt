@@ -1,0 +1,12 @@
+pandas
+numpy==1.16.4
+sklearn
+tensorflow-gpu==1.14.0
+keras==2.2.4
+opencv-contrib-python
+tqdm
+imutils
+scikit-image
+torch==1.1.0
+torchvision==0.3.0
+fastai==1.0.54
