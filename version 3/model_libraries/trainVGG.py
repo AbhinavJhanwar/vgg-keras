@@ -30,6 +30,8 @@ class trainVGG:
             self.output_dir = config['output_paths']['output_dir']
             # name of the model to be saved for vgg
             self.model_name = os.path.join(self.output_dir, config['output_paths']['vgg_model_name'])
+            # images folder to save reshaped images as per vgg network requirments
+            self.vgg_images = config['output_paths']['vgg_images']
             
             # training images directory
             self.train_images_dir = os.path.join(self.output_dir, config['vgg_train_paths']['train_images_dir'])
