@@ -1,11 +1,10 @@
 # VGG Architecture
-Various vgg architectures (vgg16, vgg12 and vgg19) and their implementation to predict a regression variable<br>
+Various vgg architectures (vgg16, vgg12 and vgg19) and their implementation<br>
 <br>
 ## VGG Regressor
 * **version 1** - basic implementation of vgg architectures with jupyter notebook
 * **version 2** - added the logging functionality
-* **version 3** - jupyter notebook is removed and everything is now controlled using an external configuration file. 
-Also included a readme file with instructions to setup environment and running the code.
+* **version 3** - jupyter notebook is removed and everything is now controlled using an external configuration file. Also included a readme file with instructions to setup environment and running the code.
 
 ## VGG Classifier
 * basic implementation of vgg architectures with jupyter notebook
